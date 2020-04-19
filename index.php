@@ -4,7 +4,7 @@
  </head>
 
  <body>
-  <?php echo '<p>New sentence has been pushed</p>' ; ?>
+  <?php echo '<p>This is moustafa trying to edit the following sentence/p>' ; ?>
  </body>
 
 </html>
